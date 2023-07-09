@@ -15,6 +15,7 @@ Type < 2 > to Show Username & password
 
 Type < 3 or high > to Close program
 
+----------------------------------------
 
 Create by Doctor
 
