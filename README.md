@@ -8,9 +8,13 @@
        Password Manager Program     
      Please select menu from list     
 ----------------------------------------
-Type < 1 > to Stored Username & password
-Tupe < 2 > to Show Username & password
-ype < 3 or high > to Close program
 
-by Doctor
+Type < 1 > to Stored Username & password
+
+Type < 2 > to Show Username & password
+
+Type < 3 or high > to Close program
+
+
+Create by Doctor
 
